@@ -1,4 +1,4 @@
-# %%
+# %% NNLM Added new
 # code by Tae Hwan Jung @graykode
 import torch
 import torch.nn as nn
